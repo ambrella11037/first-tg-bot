@@ -1,2 +1,2 @@
 # first-tg-bot
-notes bot
+This is a bot for conveniently creating and sorting your notes
